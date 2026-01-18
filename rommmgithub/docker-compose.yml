@@ -3,7 +3,7 @@ version: "3.7"
 services:
   app_proxy:
     environment:
-      APP_HOST: romm_server_1
+      APP_HOST: rommmgithub_server_1
       APP_PORT: 8080
       PROXY_AUTH_ADD: "false"
 
